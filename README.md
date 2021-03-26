@@ -1,4 +1,4 @@
-# LightNet: Deep Learning based Illumination Estimation from Virtual Images
+# [LightNet: Deep Learning based Illumination Estimation from Virtual Images](https://link.springer.com/chapter/10.1007/978-3-030-67070-2_34)
 
 In the era of virtual reality (VR), estimating illumination with lighting direction and lighting virtual objects has been a challenging
 problem. In VR, poor estimation of illumination and lighting direction makes any virtual objects into unrealistic. The inaccurate estimation of
